@@ -1,0 +1,11 @@
+ipython
+iPywidgets
+jupyter
+jupyterlab
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+scipy
+seaborn
