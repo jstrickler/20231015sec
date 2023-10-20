@@ -1,0 +1,10 @@
+,region,country,itype,channel,priority,orderdate,orderid,shipdate,sold,price,cost
+45,Sub-Saharan Africa,Angola,Office Supplies,Offline,C,2015-10-03,778854548,2015-10-03,9224,651.21,524.96
+882,Sub-Saharan Africa,Angola,Office Supplies,Online,C,2015-06-09,403721654,2015-06-29,9064,651.21,524.96
+985,Sub-Saharan Africa,Angola,Office Supplies,Online,L,2016-07-16,538602435,2016-08-19,3284,651.21,524.96
+1023,Sub-Saharan Africa,Angola,Vegetables,Online,M,2015-08-08,254127776,2015-09-12,911,154.06,90.93
+1568,Sub-Saharan Africa,Angola,Fruits,Offline,M,2017-01-23,150039613,2017-01-30,8910,9.33,6.92
+1845,Sub-Saharan Africa,Angola,Vegetables,Online,H,2016-07-12,181860911,2016-07-15,5540,154.06,90.93
+2091,Sub-Saharan Africa,Angola,Household,Online,L,2017-04-20,306496512,2017-05-06,7984,668.27,502.54
+2826,Sub-Saharan Africa,Angola,Clothes,Online,M,2016-02-19,488052022,2016-02-19,4294,109.28,35.84
+4742,Sub-Saharan Africa,Angola,Vegetables,Offline,H,2017-04-21,175434339,2017-05-26,3774,154.06,90.93
